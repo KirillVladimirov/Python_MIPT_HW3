@@ -1,0 +1,25 @@
+# Data Science
+pandas==2.2.2
+numpy==2.1.1
+
+# Workflow
+omegaconf
+
+# Test
+black 
+autoflake 
+pylint 
+pre-commit
+pytest==8.3.3
+flake8==7.1.1
+mypy==1.11.2
+isort==5.13.2
+
+# jupyterlab
+jupyterlab==4.2.5
+jupyterlab_templates==0.5.2
+
+# Visualizations
+plotly
+matplotlib
+seaborn
